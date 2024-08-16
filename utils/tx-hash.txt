@@ -1,0 +1,1 @@
+Transaction Hash : https://explorer-evm.testnet.swisstronik.com/tx/0x47c69e2dcf0ed9d3d3fc5871906aa657915834e710db5c8cc6279da3e82f989a
